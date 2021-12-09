@@ -19,6 +19,7 @@ In order for the app to run efficienctly, the user must first clone this reposit
 The usage of this app is intended for developers who would like to quickly generate a README.md file from their command line using node.
 
 ## Walk through vidoe 
+
 https://watch.screencastify.com/v/52KNnzrT8BYCzipYlbKI
 
 
