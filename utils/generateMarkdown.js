@@ -25,7 +25,7 @@ function generateMarkdown(data) {
   This project is licensed under the ${data.License} license.
   ![badge](https://img.shileds.io/badge/license-${data.License}-blue)
 
-  ##Tests
+  ## Tests
   ${data.Tests}
 
   ## Contributors
