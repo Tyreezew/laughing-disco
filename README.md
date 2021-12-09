@@ -20,6 +20,7 @@ The usage of this app is intended for developers who would like to quickly gener
 
 # License 
 This project is licensed under the [MIT License]. 
+
 MIT Copyright (c) 2021 Tyreezew
 
 # Tests
